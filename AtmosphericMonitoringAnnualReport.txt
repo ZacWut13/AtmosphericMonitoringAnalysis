@@ -1,0 +1,11 @@
+In response to recent nuclear-weapons testing and tensions on the Korean Peninsula, we restarted our nuclear atmospheric monitoring program (XXXRC cite Chernobyl, CENPA ARs, Outside article) at CENPA. We started prior to any significant release in order to have a clean background measurement and well-understood instrumentation/process before any radionuclides might reach Seattle. 
+
+In addition providing a public and scientific service in the event of a nuclear calamity, this project is very accessible for undergraduate research and training.
+
+As in the past, we collected samples from HVAC air filters located at UW's Physics and Astronomy building. These filters sample XXXRC\pmXXXRC m^3/day of ground-level air. At first, we sampled weekly, and have, with the limited cooling of Korean tensions, have reduced our cadence. In addition, we have explored a rainwater monitoring program and sampled water from the university power plant cooling tower, which ingests an enormous volume of air [XXX cite Facilities]. 
+
+After exposure, the filters are transported in bags to CENPA where they are disassembled, compressed, repackaged, and placed into a counting facility consisting of a XXXRC-details germanium detector (8 keV resolution) surrounded by ~XXXRC kg of lead bricks. Typical counting durations are >2 days.
+
+In addition, we have revived, upgraded, and characterized a four-scintillator-coincidence muon counter for use in surveying lower-background counting locations that may be available at both CENPA and underground on the UW campus. 
+
+With a campaign of measurements beginning in October 2017, we have begun to produce background-subtracted measurements. Samples of these early results are shown in Figures 1 and 2 XXXRC. Streamlining of the analysis process is underway to allow quick-turnaround results on radionuclides of interest.
