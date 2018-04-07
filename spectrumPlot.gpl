@@ -1,0 +1,11 @@
+set term postscript enhanced solid color eps
+set output 'spectrumPlot.eps'
+
+set key noauto
+
+set xlabel 'gamma energy (keV)'
+set ylabel 'count rate (mHz)'
+
+set title 'Background-subtracted spectrum'
+
+pl 'subtTable544.txt' u 1:($2*1e3):($3*1e3) w yerr
